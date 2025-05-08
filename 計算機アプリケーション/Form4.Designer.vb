@@ -102,7 +102,7 @@ Partial Class FrmBMI
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(52, 18)
         Me.Label1.TabIndex = 10
-        Me.Label1.Text = "身長(m)"
+        Me.Label1.Text = "身長(cm)"
         '
         'FrmBMI
         '
